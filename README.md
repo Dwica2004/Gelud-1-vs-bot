@@ -2,7 +2,16 @@
 
 Sebuah game fighting 2D yang dibuat menggunakan Pygame, menampilkan pertarungan epik antara Huntress dan Evil Wizard di Demon Woods.
 
-![Game Preview](assets/preview.png)
+## 📸 Preview Game
+
+### Menu Utama & Pemilihan Tingkat Kesulitan
+![Menu Utama](assets/preview/1.jpg)
+
+### Pertarungan In-Game
+![Gameplay](assets/preview/2.jpg)
+
+### Status Bar & UI
+![UI Game](assets/preview/3.jpg)
 
 ## 🎮 Fitur Game
 
